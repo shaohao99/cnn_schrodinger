@@ -1,3 +1,5 @@
+# Copyright: Shaohao Chen, Research Computing Services, Boston University. 2018
+
 import numpy as np
 
 # A function to compute potential and eigen energies
