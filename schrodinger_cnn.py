@@ -1,3 +1,5 @@
+# Copyright: Shaohao Chen, Research Computing Services, Boston University.
+
 import numpy as np
 import tensorflow as tf
 np.set_printoptions(threshold=np.nan)
