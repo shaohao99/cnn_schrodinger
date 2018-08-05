@@ -1,4 +1,4 @@
-# Copyright: Shaohao Chen, Research Computing Services, Boston University.
+# Copyright: Shaohao Chen, Research Computing Services, Boston University. 2018
 
 import numpy as np
 import tensorflow as tf
